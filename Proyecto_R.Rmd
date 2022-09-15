@@ -86,3 +86,4 @@ monthly
 t.test(proportion_deaths ~ handwashing_started, data = monthly, conf_level = 0.95)
 ```
 
+
